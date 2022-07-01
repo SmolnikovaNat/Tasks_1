@@ -1,0 +1,15 @@
+D:\TASK\ex01\bin\Debug\net6.0\ex01.exe
+D:\TASK\ex01\bin\Debug\net6.0\ex01.deps.json
+D:\TASK\ex01\bin\Debug\net6.0\ex01.runtimeconfig.json
+D:\TASK\ex01\bin\Debug\net6.0\ex01.dll
+D:\TASK\ex01\bin\Debug\net6.0\ex01.pdb
+D:\TASK\ex01\obj\Debug\net6.0\ex01.csproj.AssemblyReference.cache
+D:\TASK\ex01\obj\Debug\net6.0\ex01.GeneratedMSBuildEditorConfig.editorconfig
+D:\TASK\ex01\obj\Debug\net6.0\ex01.AssemblyInfoInputs.cache
+D:\TASK\ex01\obj\Debug\net6.0\ex01.AssemblyInfo.cs
+D:\TASK\ex01\obj\Debug\net6.0\ex01.csproj.CoreCompileInputs.cache
+D:\TASK\ex01\obj\Debug\net6.0\ex01.dll
+D:\TASK\ex01\obj\Debug\net6.0\refint\ex01.dll
+D:\TASK\ex01\obj\Debug\net6.0\ex01.pdb
+D:\TASK\ex01\obj\Debug\net6.0\ex01.genruntimeconfig.cache
+D:\TASK\ex01\obj\Debug\net6.0\ref\ex01.dll
